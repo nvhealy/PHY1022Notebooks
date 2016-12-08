@@ -1,0 +1,6 @@
+IPython
+ipywidgets
+<<<<<<< HEAD
+=======
+
+>>>>>>> fee763012a3b4eb8aa75162c6d288c3d3fca5435
